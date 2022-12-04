@@ -7,7 +7,7 @@ query, create, edit, and delete tables in MySQL.
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of SQL and Python scripts for setting up test tables
-for all files. Provided by ALX.
+for all files. Provided by Holberton School.
 
 ## Tasks :page_with_curl:
 
@@ -165,4 +165,3 @@ for all files. Provided by ALX.
   <mysql password> <database name>`.
   * Uses the `state` relationship to access the `State` objects linked to `City` objects.
   * Results are sorted by ascending `cities.id`.
-
